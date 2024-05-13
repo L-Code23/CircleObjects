@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramse\\source\\repos\\CircleObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8122BD09-74E2-42F8-817E-FFF68B6FD37D}|CircleObjects\\CircleObjects.csproj|c:\\users\\ramse\\source\\repos\\circleobjects\\circleobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8122BD09-74E2-42F8-817E-FFF68B6FD37D}|CircleObjects\\CircleObjects.csproj|solutionrelative:circleobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8122BD09-74E2-42F8-817E-FFF68B6FD37D}|CircleObjects\\CircleObjects.csproj|c:\\users\\ramse\\source\\repos\\circleobjects\\circleobjects\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8122BD09-74E2-42F8-817E-FFF68B6FD37D}|CircleObjects\\CircleObjects.csproj|solutionrelative:circleobjects\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CircleObjects\\CircleObjects\\Class1.cs",
+              "RelativeDocumentMoniker": "CircleObjects\\Class1.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CircleObjects\\CircleObjects\\Class1.cs",
+              "RelativeToolTip": "CircleObjects\\Class1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA4wDoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:52:01.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\source\\repos\\CircleObjects\\CircleObjects\\Program.cs",
+              "RelativeDocumentMoniker": "CircleObjects\\Program.cs",
+              "ToolTip": "C:\\Users\\ramse\\source\\repos\\CircleObjects\\CircleObjects\\Program.cs",
+              "RelativeToolTip": "CircleObjects\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:51:33.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
